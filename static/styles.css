@@ -1,0 +1,31 @@
+body{
+  background-color: #ea7faf; 
+}
+#canline{
+  stroke: black;
+  stroke-width: 2px;
+  opacity: .25;
+}
+#canline:hover{
+  opacity: 1;
+}
+#mexline{
+  stroke: black;
+  stroke-width: 2px;
+  opacity: .25;
+}
+#mexline:hover{
+  opacity: 1;
+}
+#usaline{
+  stroke: black;
+  stroke-width: 2px;
+  opacity: .25;
+}
+#usaline:hover{
+  opacity: 1;
+}
+svg{
+  border-style: solid;
+  border-width: 1px;
+}

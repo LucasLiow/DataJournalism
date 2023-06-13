@@ -1,29 +1,14 @@
 body{
   background-color: #ea7faf; 
 }
-#canline{
-  stroke: black;
-  stroke-width: 2px;
-  opacity: .25;
+#MA{
+  fill: rgb(25046/100,25046/100,25046/100);
 }
-#canline:hover{
-  opacity: 1;
+#MA{
+  fill: rgb(25046/100,25046/100,25046/100);
 }
-#mexline{
-  stroke: black;
-  stroke-width: 2px;
-  opacity: .25;
-}
-#mexline:hover{
-  opacity: 1;
-}
-#usaline{
-  stroke: black;
-  stroke-width: 2px;
-  opacity: .25;
-}
-#usaline:hover{
-  opacity: 1;
+.word{
+  fill: black;
 }
 svg{
   border-style: solid;
